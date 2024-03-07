@@ -53,7 +53,7 @@ function App() {
           />
 
           <button onClick={copyPassword}
-          className='outline-none bg-blue-600 text-white px-3 py-0.5 shrink-0'>
+          className='outline-none bg-blue-600 text-white px-3 py-0.5 shrink-0 hover:bg-sky-950 transition-all'>
             copy
           </button>
 
